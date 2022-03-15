@@ -1,1 +1,3 @@
-# A small repository to refresh knowledge of the most commonly used React Hooks
+# React Hooks Refresher
+
+A small project to refresh and review knowledge of the most commonly used React Hooks
