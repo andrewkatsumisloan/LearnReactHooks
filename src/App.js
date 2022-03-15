@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import LearnReducer from './LearnHooks.js/LearnReducer';
+import LearnReducer from './LearnHooks/LearnUseReducer';
 
 function App() {
   return (
